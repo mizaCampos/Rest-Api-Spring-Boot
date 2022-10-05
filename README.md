@@ -45,7 +45,9 @@ How to run the application 📙
 1) you'd need a java run
 2) create the class with its respective name in your application directory and copy its referring code
 3) the api was made based on the mysql bank, if you are going to use another and need to change the connector of the spring and download the referent, and put in the pom.xml
-4) exchange the connection data with the bank as login and password and place your
+4) exchange the connection data with the bank as login and password and place your, equal below.
+![Captura de tela 2022-10-04 214616](https://user-images.githubusercontent.com/102499938/193955866-2afb300a-c790-4642-9380-3e3f8224fd4b.png)
+
 
 
 
