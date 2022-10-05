@@ -2,7 +2,9 @@
 
 > Status: Completed📘
 
-### this is a rest api made by me with all the methods http, and also with query methods created
+### this is a rest api made by me with all the methods http, and also with query methods created // GET / POST/ DELETE / PUT / QUERY METHODS CREATED
+![Captura de tela 2022-10-04 214954](https://user-images.githubusercontent.com/102499938/193956152-fe2e0b6f-7d0b-49f8-9300-c42938bb2dd7.png)
+
 
 ## properties of the main model class
 
