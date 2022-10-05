@@ -50,7 +50,8 @@ How to run the application 📙
 4) exchange the connection data with the bank as login and password and place your, equal below.
 ![Captura de tela 2022-10-04 214616](https://user-images.githubusercontent.com/102499938/193955866-2afb300a-c790-4642-9380-3e3f8224fd4b.png)
 
-
+5) exchanging the database data, having copied all the files, we can already run the application.
+6) https://springhow.com/spring-boot-database-connection /if you have difficulty connecting tente 
 
 
 
